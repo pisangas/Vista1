@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vista</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="type">Type: </string>
+    <string name="floor">Floor: </string>
+    <string name="medium_house">Medium House</string>
+    <string name="_1">1</string>
+    <string name="spacious">Spacious:</string>
+    <string name="_857_sqft">857 sqft</string>
+    <string name="built_in">Built In:</string>
+    <string name="_2005">2005</string>
+    <string name="zip">Zip:</string>
+    <string name="_212122">212122</string>
+    <string name="show_more">Show More</string>
+</resources>
